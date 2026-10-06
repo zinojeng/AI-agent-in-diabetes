@@ -141,7 +141,7 @@
 - diabetes educator
 - dietitian
 
-目前原始 CoDoClaw 架構本身已經規劃 HIS、PACS、CVIS 及內分泌、心臟、腎臟、眼科等跨系統資料整合，因此這一層可視為既有架構的延伸。
+目前原始 AI-agent 架構本身已經規劃 HIS、PACS、CVIS 及內分泌、心臟、腎臟、眼科等跨系統資料整合，因此這一層可視為既有架構的延伸。
 
 ---
 
@@ -1489,7 +1489,7 @@ Echo 尚未完成
 
 今天最值得介入的 30 位病人。
 
-這與原 CoDoClaw 已提出的分級、分群、動態風險管理與 precision public health 概念可以直接連接。
+這與原 AI-agent 已提出的分級、分群、動態風險管理與 precision public health 概念可以直接連接。
 
 ---
 

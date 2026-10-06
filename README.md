@@ -22,7 +22,7 @@
 ## 目錄結構
 
 ```
-CoDoClaw/
+AI-agent/
 ├── README.md                        本文件
 ├── requirements.txt                  最小相依套件（pytest）
 ├── OpenClaw for Diabetes HIS.md      設計所依據的原始規格文件
